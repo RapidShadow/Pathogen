@@ -1,6 +1,7 @@
+
 $(document).ready(function() {
 $("#menu").click(function(){
-  $("#list").Toggle();
+  $("#list").slideToggle();
  })
 })
 
